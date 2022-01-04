@@ -4,6 +4,8 @@
 #include <limits.h>
 using namespace std;
 
+int input[101];
+
 int main() {
   int i;
   int a,b,c,d;

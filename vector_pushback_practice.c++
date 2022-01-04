@@ -17,3 +17,4 @@ int main() {
   }
   printf("%f", sum/input.size());
 }
+
